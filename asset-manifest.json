@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/agecalci/static/css/main.ffb5a154.css",
+    "main.js": "/agecalci/static/js/main.5f96bbfd.js",
+    "static/js/787.d2aa539d.chunk.js": "/agecalci/static/js/787.d2aa539d.chunk.js",
+    "index.html": "/agecalci/index.html",
+    "main.ffb5a154.css.map": "/agecalci/static/css/main.ffb5a154.css.map",
+    "main.5f96bbfd.js.map": "/agecalci/static/js/main.5f96bbfd.js.map",
+    "787.d2aa539d.chunk.js.map": "/agecalci/static/js/787.d2aa539d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffb5a154.css",
+    "static/js/main.5f96bbfd.js"
+  ]
+}
